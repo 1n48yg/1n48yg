@@ -1,10 +1,4 @@
-Hello there!
-
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently studying Mathematics and Computer Science at the University of British Columbia
-- 🔭 I'm currently working on improving my proficiency at solving algorithmic problems
-- 📫 Feel free to reach out to me for whatever reason at: xiaoyang5811@gmail.com
-- ⚡ Fun fact: Proud DGG member alhamdulillah
+📫 Feel free to reach out to me for whatever reason at: xiaoyang5811@gmail.com
 
 <!---
 1n48yg/1n48yg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
